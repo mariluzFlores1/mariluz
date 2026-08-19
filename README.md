@@ -13,4 +13,4 @@
 - **Librerías de ML/Data:** Pandas, NumPy, Scikit-Learn, Matplotlib, PyTorch
 - **Entornos:** Jupyter Notebooks, VS Code, Git/GitHub
 
-📫 **Contacto:**  | floresmariluz909@gmail.com
+📫 **Contacto:**  | floresmariluz909@gmail.com | floresmariluz2125@gmail.com
